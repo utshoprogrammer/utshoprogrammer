@@ -161,8 +161,6 @@ My objective is clear: build high-performance, maintainable, and intelligent sof
 
 ## CodeChef
 
-<br/>
-
 [View Profile →](https://www.codechef.com/users/)
 
 </td>
