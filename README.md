@@ -140,7 +140,7 @@ My objective is clear: build high-performance, maintainable, and intelligent sof
 <td align="center" width="33%">
 
 <a href="https://leetcode.com/u/utshoprogrammer/">
-<img src="assets/utshoprogrammer.png" width="105" alt="LeetCode Avatar"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThYtsphfa5cUh7yDU6ItgCRtpt8tCuJRj1TYox43sGxA&s=10" width="105" alt="LeetCode Avatar"/>
 </a>
 
 <br/>
@@ -154,14 +154,14 @@ My objective is clear: build high-performance, maintainable, and intelligent sof
 <td align="center" width="33%">
 
 <a href="https://leetcode.com/u/utshoprogrammer/">
-<img src="assets/utshoprogrammer.png" width="105" alt="LeetCode Avatar"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTdT7SnKv2Qhey6vzUTPWsxMLev1GUKjBOGvphvooijQ&s" width="105" alt="LeetCode Avatar"/>
 </a>
 
 <br/>
 
 ## CodeChef
 
-[View Profile →](https://www.codechef.com/users/)
+[View Profile →](https://www.codechef.com/users/utsaprogrammer)
 
 </td>
 
