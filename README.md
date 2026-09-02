@@ -47,7 +47,6 @@
 </div>
 
 <br/>
----
 
 ## `01 // ABOUT ME`
 
@@ -69,15 +68,39 @@ My objective is clear: build high-performance, maintainable, and intelligent sof
   <b>Languages</b>
 </p>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts&theme=dark" />
 
 <br/><br/>
 
 <p>
-  <b>Web Development</b>
+  <b>Frontend</b>
 </p>
 
-<img src="https://skillicons.dev/icons?i=html,css,react,vite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" />
+
+<br/><br/>
+
+<p>
+  <b>Backend</b>
+</p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+
+<br/><br/>
+
+<p>
+  <b>Database</b>
+</p>
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma&theme=dark" />
+
+<br/><br/>
+
+<p>
+  <b>DevOps & Cloud</b>
+</p>
+
+<img src="https://skillicons.dev/icons?i=docker,githubactions,vercel&theme=dark" />
 
 <br/><br/>
 
@@ -85,7 +108,7 @@ My objective is clear: build high-performance, maintainable, and intelligent sof
   <b>Tools & Environment</b>
 </p>
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,vite&theme=dark" />
 
 </div>
 
@@ -103,7 +126,7 @@ My objective is clear: build high-performance, maintainable, and intelligent sof
 <td align="center" width="33%">
 
 <a href="https://codeforces.com/profile/utshoprogrammer">
-<img src="assets/cf_avatar.png" width="105" alt="Codeforces Avatar"/>
+<img src="assets/utshoprogrammer.png" width="105" alt="Codeforces Avatar"/>
 </a>
 
 <br/>
@@ -117,7 +140,7 @@ My objective is clear: build high-performance, maintainable, and intelligent sof
 <td align="center" width="33%">
 
 <a href="https://leetcode.com/u/utshoprogrammer/">
-<img src="assets/lc_avatar.png" width="105" alt="LeetCode Avatar"/>
+<img src="assets/utshoprogrammer.png" width="105" alt="LeetCode Avatar"/>
 </a>
 
 <br/>
