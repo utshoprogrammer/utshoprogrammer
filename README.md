@@ -4,20 +4,20 @@
 
 <br/>
 
-<a href="https://github.com/habibprogrammerbd">
+<a href="https://github.com/utshoprogrammer">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Solving+problems+and+learning+every+day;Data+Structures+%26+Algorithms+with+C%2B%2B;Competitive+Programming+%E2%80%A2+Backend+%E2%80%A2+Web+Development" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/habibprogrammerbd">
-  <img src="https://img.shields.io/badge/GitHub-habibprogrammerbd-111827?style=flat-square&logo=github&logoColor=white" />
+<a href="https://github.com/utshoprogrammer">
+  <img src="https://img.shields.io/badge/GitHub-utshoprogrammer-111827?style=flat-square&logo=github&logoColor=white" />
 </a>
-<a href="https://codeforces.com/profile/Habib101">
-  <img src="https://img.shields.io/badge/Codeforces-Habib101-111827?style=flat-square&logo=codeforces&logoColor=38BDF8" />
+<a href="https://codeforces.com/profile/utshoprogrammer">
+  <img src="https://img.shields.io/badge/Codeforces-utshoprogrammer-111827?style=flat-square&logo=codeforces&logoColor=38BDF8" />
 </a>
-<a href="https://leetcode.com/u/habibprogrammerbd/">
-  <img src="https://img.shields.io/badge/LeetCode-habibprogrammerbd-111827?style=flat-square&logo=leetcode&logoColor=F59E0B" />
+<a href="https://leetcode.com/u/utshoprogrammer/">
+  <img src="https://img.shields.io/badge/LeetCode-utshoprogrammer-111827?style=flat-square&logo=leetcode&logoColor=F59E0B" />
 </a>
 
 </div>
@@ -79,7 +79,7 @@
 
 <td align="center" width="33%">
 
-<a href="https://codeforces.com/profile/Habib101">
+<a href="https://codeforces.com/profile/utshoprogrammer">
 <img src="assets/cf_avatar.png" width="105" alt="Codeforces Avatar"/>
 </a>
 
@@ -87,13 +87,13 @@
 
 ### Codeforces
 
-[View Profile →](https://codeforces.com/profile/Habib101)
+[View Profile →](https://codeforces.com/profile/utshoprogrammer)
 
 </td>
 
 <td align="center" width="33%">
 
-<a href="https://leetcode.com/u/habibprogrammerbd/">
+<a href="https://leetcode.com/u/utshoprogrammer/">
 <img src="assets/lc_avatar.png" width="105" alt="LeetCode Avatar"/>
 </a>
 
@@ -101,7 +101,7 @@
 
 ### LeetCode
 
-[View Profile →](https://leetcode.com/u/habibprogrammerbd/)
+[View Profile →](https://leetcode.com/u/utshoprogrammer/)
 
 </td>
 
@@ -113,7 +113,7 @@
 
 <br/>
 
-[View Profile →](https://www.codechef.com/users/ahosan_habib)
+[View Profile →](https://www.codechef.com/users/utsaprogrammer)
 
 </td>
 
@@ -128,7 +128,7 @@
 
 ### Codeforces Statistics
 
-<a href="https://codeforces.com/profile/Habib101">
+<a href="https://codeforces.com/profile/utshoprogrammer">
 <img src="assets/cf_card.svg" width="72%" alt="Codeforces Statistics"/>
 </a>
 
@@ -136,8 +136,8 @@
 
 ### LeetCode Statistics
 
-<a href="https://leetcode.com/u/habibprogrammerbd/">
-<img src="https://leetcard.jacoblin.cool/habibprogrammerbd?theme=dark&font=Karma&ext=heatmap" width="72%" alt="LeetCode Statistics"/>
+<a href="https://leetcode.com/u/utshoprogrammer/">
+<img src="https://leetcard.jacoblin.cool/utshoprogrammer?theme=dark&font=Karma&ext=heatmap" width="72%" alt="LeetCode Statistics"/>
 </a>
 
 </div>
@@ -157,7 +157,7 @@ See <code>.github/workflows/update-avatars.yml</code>
 
 <div align="center">
 
-<a href="https://github.com/habibprogrammerbd">
+<a href="https://github.com/utshoprogrammer">
   <img src="https://img.shields.io/badge/Explore_My_GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub"/>
 </a>
 
@@ -171,15 +171,15 @@ See <code>.github/workflows/update-avatars.yml</code>
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/habibprogrammerbd/">
+<a href="https://www.linkedin.com/in/utshoprogrammer/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.facebook.com/habibprogrammerbd/">
+<a href="https://www.facebook.com/utshoprogrammer/">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="mailto:habibprogrammerbd@gmail.com">
+<a href="mailto:utshoprogrammer@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -196,13 +196,13 @@ See <code>.github/workflows/update-avatars.yml</code>
 <div align="center">
 
 <sub>
-<a href="https://github.com/habibprogrammerbd">GitHub</a>
+<a href="https://github.com/utshoprogrammer">GitHub</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://codeforces.com/profile/Habib101">Codeforces</a>
+<a href="https://codeforces.com/profile/utshoprogrammer">Codeforces</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://leetcode.com/u/habibprogrammerbd/">LeetCode</a>
+<a href="https://leetcode.com/u/utshoprogrammer/">LeetCode</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://www.codechef.com/users/ahosan_habib">CodeChef</a>
+<a href="https://www.codechef.com/users/utsaprogrammer">CodeChef</a>
 </sub>
 
 <br/><br/>
