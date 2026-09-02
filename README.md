@@ -47,6 +47,7 @@
 </div>
 
 <br/>
+<div align="center">
 
 ## `01 // ABOUT ME`
 
@@ -58,7 +59,10 @@ Beyond traditional web development, I am actively bridging core engineering prin
 
 My objective is clear: build high-performance, maintainable, and intelligent software that solves real-world problems efficiently.
 
+</div>
+
 ---
+<div align="center">
 
 ## `02 // Tech Stack`
 
@@ -113,6 +117,8 @@ My objective is clear: build high-performance, maintainable, and intelligent sof
 </div>
 
 <br/>
+
+</div>
 
 ---
 
