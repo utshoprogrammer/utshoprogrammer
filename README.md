@@ -186,7 +186,7 @@ My objective is clear: build high-performance, maintainable, and intelligent sof
 ## `04 // Codeforces Statistics`
 
 <a href="https://codeforces.com/profile/utshoprogrammer">
-<img src="assets/cf_card.svg" width="72%" alt="Codeforces Statistics"/>
+<img src="/assets/cf_card.svg" width="72%" alt="Codeforces Statistics"/>
 </a>
 
 <br/><br/>

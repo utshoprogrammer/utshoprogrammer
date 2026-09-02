@@ -13,8 +13,8 @@ import sys
 import json
 import urllib.request
 
-CF_HANDLE = "Habib101"
-LC_USERNAME = "habibprogrammerbd"
+CF_HANDLE = "utshoprogrammer"
+LC_USERNAME = "utshoprogrammer"
 
 ASSETS_DIR = os.path.join(os.path.dirname(__file__), "..", "assets")
 os.makedirs(ASSETS_DIR, exist_ok=True)
@@ -46,7 +46,7 @@ def save_image(url, filename):
 
 
 def update_codeforces_avatar():
-    api_url = f"https://codeforces.com/api/user.info?handles={CF_HANDLE}"
+    api_url = f"https://codeforces.com/api/user.info?handles=utshoprogrammer"
     raw = fetch(api_url)
     data = json.loads(raw)
     if data.get("status") != "OK":
@@ -69,7 +69,7 @@ def get_cf_solved_count():
     """
     status_url = (
         f"https://codeforces.com/api/user.status"
-        f"?handle={CF_HANDLE}&from=1&count=100000"
+        f"?handle=utshoprogrammer&from=1&count=100000"
     )
     raw = fetch(status_url)
     data = json.loads(raw)

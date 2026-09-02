@@ -1,27 +1,188 @@
-<svg width="330" height="200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style>
-      .bg { fill: #1a1b27; }
-      .title { font: 700 18px 'Segoe UI', sans-serif; fill: #ffffff; }
-      .label { font: 400 13px 'Segoe UI', sans-serif; fill: #9aa5ce; }
-      .value { font: 700 22px 'Segoe UI', sans-serif; fill: #ffffff; }
-      .rank { font: 700 15px 'Segoe UI', sans-serif; fill: #CCCCCC; }
-    </style>
-  </defs>
-  <rect class="bg" width="330" height="200" rx="12"/>
-  <text x="20" y="34" class="title">Habib101</text>
-  <text x="20" y="54" class="rank">newbie</text>
 
-  <text x="20" y="100" class="label">Rating</text>
-  <text x="20" y="128" class="value">353</text>
+<svg
+  width="672"
+  height="406"
+  viewBox="0 0 672 406"
+  xmlns="http://www.w3.org/2000/svg"
+>
 
-  <text x="120" y="100" class="label">Max Rating</text>
-  <text x="120" y="128" class="value">353</text>
+  <!-- ====================================== -->
+  <!-- MAIN CARD -->
+  <!-- ====================================== -->
 
-  <text x="230" y="100" class="label">Solved</text>
-  <text x="230" y="128" class="value">19</text>
+  <rect
+    width="672"
+    height="406"
+    rx="24"
+    fill="#20212a"
+  />
 
-  <rect x="20" y="150" width="290" height="6" rx="3" fill="#2a2b3c"/>
-  <rect x="20" y="150" width="35.3" height="6" rx="3" fill="#CCCCCC"/>
-  <text x="20" y="180" class="label">codeforces.com/profile/Habib101</text>
+
+  <!-- ====================================== -->
+  <!-- USERNAME -->
+  <!-- ====================================== -->
+
+  <text
+    x="42"
+    y="70"
+    fill="#ffffff"
+    font-family="Arial, sans-serif"
+    font-size="38"
+    font-weight="700"
+  >
+    utshoprogrammer
+  </text>
+
+
+  <!-- ====================================== -->
+  <!-- RANK -->
+  <!-- ====================================== -->
+
+  <text
+    x="42"
+    y="110"
+    fill="#c7c7c7"
+    font-family="Arial, sans-serif"
+    font-size="28"
+    font-weight="600"
+  >
+    unrated
+  </text>
+
+
+  <!-- ====================================== -->
+  <!-- RATING LABEL -->
+  <!-- ====================================== -->
+
+  <text
+    x="42"
+    y="204"
+    fill="#9da8d0"
+    font-family="Arial, sans-serif"
+    font-size="25"
+  >
+    Rating
+  </text>
+
+
+  <!-- ====================================== -->
+  <!-- RATING VALUE -->
+  <!-- ====================================== -->
+
+  <text
+    x="42"
+    y="260"
+    fill="#ffffff"
+    font-family="Arial, sans-serif"
+    font-size="44"
+    font-weight="700"
+  >
+    Unrated
+  </text>
+
+
+  <!-- ====================================== -->
+  <!-- MAX RATING LABEL -->
+  <!-- ====================================== -->
+
+  <text
+    x="245"
+    y="204"
+    fill="#9da8d0"
+    font-family="Arial, sans-serif"
+    font-size="25"
+  >
+    Max Rating
+  </text>
+
+
+  <!-- ====================================== -->
+  <!-- MAX RATING VALUE -->
+  <!-- ====================================== -->
+
+  <text
+    x="245"
+    y="260"
+    fill="#ffffff"
+    font-family="Arial, sans-serif"
+    font-size="44"
+    font-weight="700"
+  >
+    Unrated
+  </text>
+
+
+  <!-- ====================================== -->
+  <!-- SOLVED LABEL -->
+  <!-- ====================================== -->
+
+  <text
+    x="470"
+    y="204"
+    fill="#9da8d0"
+    font-family="Arial, sans-serif"
+    font-size="25"
+  >
+    Solved
+  </text>
+
+
+  <!-- ====================================== -->
+  <!-- SOLVED VALUE -->
+  <!-- ====================================== -->
+
+  <text
+    x="470"
+    y="260"
+    fill="#ffffff"
+    font-family="Arial, sans-serif"
+    font-size="44"
+    font-weight="700"
+  >
+    17
+  </text>
+
+
+  <!-- ====================================== -->
+  <!-- PROGRESS BAR BACKGROUND -->
+  <!-- ====================================== -->
+
+  <rect
+    x="42"
+    y="304"
+    width="588"
+    height="13"
+    rx="7"
+    fill="#2d2e3d"
+  />
+
+
+  <!-- ====================================== -->
+  <!-- PROGRESS BAR -->
+  <!-- ====================================== -->
+
+  <rect
+    x="42"
+    y="304"
+    width="20"
+    height="13"
+    rx="7"
+    fill="#dddddd"
+  />
+
+
+  <!-- ====================================== -->
+  <!-- PROFILE URL -->
+  <!-- ====================================== -->
+
+  <text
+    x="42"
+    y="365"
+    fill="#9da8d0"
+    font-family="Arial, sans-serif"
+    font-size="25"
+  >
+    codeforces.com/profile/utshoprogrammer
+  </text>
+
 </svg>
