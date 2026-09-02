@@ -246,24 +246,59 @@ utsaprogrammer
 
 ## `10 // CONNECT`
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    CONNECT SECTION                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<p> <a href="https://github.com/utshoprogrammer"> <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=D4AF37" style="height:34px"/> </a> <a href="https://www.linkedin.com/in/utshoprogrammer/"> <img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=D4AF37" style="height:34px"/> </a> <a href="https://www.facebook.com/utshoprogrammer/"> <img src="https://img.shields.io/badge/Facebook-0D0D0D?style=for-the-badge&logo=facebook&logoColor=D4AF37" style="height:34px"/> </a> </p>
+<h3><code>Socials</code></h3>
 
-<p> <a href="mailto:utshoprogrammer@gmail.com"> <img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=D4AF37" style="height:34px"/> </a> <a href="https://utshoprogrammer.github.io/"> <img src="https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=google-chrome&logoColor=D4AF37" style="height:34px"/> </a> </p>
+<br/>
 
-<br>
+<a href="https://www.facebook.com/share/utshoprogrammer/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-utshoprogrammer-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000000" />
+</a>
+&nbsp;
+<a href="https://www.instagram.com/utshoprogrammer" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%40the.cipher.stack-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/utshoprogrammer" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+</a>
 
-<sub><code>OPEN TO BUILD • COLLABORATE • CREATE</code></sub>
+<br/><br/>
 
-</div>
+<a href="mailto:utshoprogrammer@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
+</a>
+&nbsp;
+<a href="https://github.com/utshoprogrammer" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Follow-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+</a>
+&nbsp;
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Live%20Site-39d353?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
+</a>
+
+<br/><br/>
+
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+
+<td align="center" valign="middle">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=4000&pause=1500&color=39D353&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=52&lines=Thanks+for+stopping+by%21;Let%27s+connect+and+build+together.;Every+great+product+starts+with+a+conversation." alt="Footer typing" />
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
-<div align="center">
-
-### `BUILD • BREAK • LEARN • REBUILD`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=120&section=footer&text=UTSHOPROGRAMMER&fontColor=D4AF37&fontSize=24&animation=fadeIn&fontAlignY=70" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:020c1b,80:041a0e,100:0d3b20&height=160&section=footer&text=%22Utsho+Kumar+Roy%22&fontSize=15&fontColor=39d353&fontAlignY=68&animation=fadeIn&reversal=true" />
 
 </div>
