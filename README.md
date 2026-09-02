@@ -1,10 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="utshoprogrammer's GitHub profile" src="dark_mode.svg" />
-</picture>
----
-
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--            2. CINEMATIC HEADER                             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
@@ -15,7 +8,7 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=utshoprogrammer&style=for-the-badge&color=0d3b20&label=PROFILE+VIEWS&labelColor=000000" />
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS-Not%20Avaiable-D44124?style=for-the-badge&labelColor=25D931&logo=checkmarx&logoColor=000000" />
+<img src="https://img.shields.io/badge/STATUS-Not%20Avaiable-D44124?style=for-the-badge&labelColor=4B9950&logo=checkmarx&logoColor=D44124" />
 &nbsp;
 <img src="https://img.shields.io/badge/BASED-Bangladesh-ffffff?style=for-the-badge&labelColor=000000" />
 </div>
@@ -26,6 +19,14 @@
 
 
 <br/><br/>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="utshoprogrammer's GitHub profile" src="dark_mode.svg" />
+</picture>
 
 ---
 <div align="center">
@@ -48,7 +49,7 @@
 <br/>
 ---
 
-## `03 // ABOUT ME`
+## `01 // ABOUT ME`
 
 I'm **Utsa Kumar Roy**, a Full-Stack Software Engineer backed by a rigorous foundation in computer science fundamentals, data structures, and algorithms from Phitron.
 
@@ -60,7 +61,7 @@ My objective is clear: build high-performance, maintainable, and intelligent sof
 
 ---
 
-## 🛠️ Tech Stack
+## `02 // Tech Stack`
 
 <div align="center">
 
@@ -92,7 +93,7 @@ My objective is clear: build high-performance, maintainable, and intelligent sof
 
 ---
 
-## 🏆 Competitive Programming
+## `03 // Competitive Programming`
 
 <div align="center">
 
@@ -148,7 +149,7 @@ My objective is clear: build high-performance, maintainable, and intelligent sof
 
 <div align="center">
 
-### Codeforces Statistics
+## `04 // Codeforces Statistics`
 
 <a href="https://codeforces.com/profile/utshoprogrammer">
 <img src="assets/cf_card.svg" width="72%" alt="Codeforces Statistics"/>
@@ -156,7 +157,7 @@ My objective is clear: build high-performance, maintainable, and intelligent sof
 
 <br/><br/>
 
-### LeetCode Statistics
+## `05 // LeetCode Statistics`
 
 <a href="https://leetcode.com/u/utshoprogrammer/">
 <img src="https://leetcard.jacoblin.cool/utshoprogrammer?theme=dark&font=Karma&ext=heatmap" width="72%" alt="LeetCode Statistics"/>
@@ -170,20 +171,6 @@ Codeforces & LeetCode avatars + statistics auto-update through GitHub Actions.
 See <code>.github/workflows/update-avatars.yml</code>
 </sub>
 </p>
-
-<br/>
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<a href="https://github.com/utshoprogrammer">
-  <img src="https://img.shields.io/badge/Explore_My_GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub"/>
-</a>
-
-</div>
 
 <br/>
 
