@@ -4,11 +4,31 @@
   <img alt="utshoprogrammer's GitHub profile" src="dark_mode.svg" />
 </picture>
 ---
-<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:111827,100:0EA5E9&height=210&section=header&text=Ahosan%20Habib&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=34&desc=CSE%20Student%20%7C%20Competitive%20Programmer%20%7C%20Problem%20Solver&descSize=17&descAlignY=58" />
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--            2. CINEMATIC HEADER                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:020c1b,60:041a0e,80:072b16,100:0d3b20&height=300&section=header&text=Syed%20Hassan%20Dildar&fontSize=64&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Full%20Stack%20Engineer%20%E2%80%A2%20React%20Architect%20%E2%80%A2%203D%20Web%20Craftsman&descAlignY=60&descSize=17&descFontColor=39d353&animation=fadeIn&stroke=39d353&strokeWidth=1" />
 
 <br/>
+
+<img src="https://komarev.com/ghpvc/?username=Hxni786&style=for-the-badge&color=0d3b20&label=PROFILE+VIEWS&labelColor=000000" />
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-39d353?style=for-the-badge&labelColor=000000&logo=checkmarx&logoColor=39d353" />
+&nbsp;
+<img src="https://img.shields.io/badge/BASED-Pakistan-ffffff?style=for-the-badge&labelColor=000000" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=3000&pause=1000&color=39D353&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=52&lines=Building+production-ready+full-stack+apps;Crafting+immersive+3D+experiences+with+Three.js;React+%26+React+Native+-+web+%26+mobile%2C+covered;Node.js+backend+engineer+%7C+REST+API+architect;Write+code+that+works.+Then+code+that+lasts." alt="Typing SVG" />
+
+<br/><br/>
+
+---
+<div align="center">
+
+
 
 <a href="https://github.com/utshoprogrammer">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Solving+problems+and+learning+every+day;Data+Structures+%26+Algorithms+with+C%2B%2B;Competitive+Programming+%E2%80%A2+Backend+%E2%80%A2+Web+Development" alt="Typing SVG" />
