@@ -126,7 +126,7 @@ My objective is clear: build high-performance, maintainable, and intelligent sof
 <td align="center" width="33%">
 
 <a href="https://codeforces.com/profile/utshoprogrammer">
-<img src="https://www.google.com/imgres?q=codeforces&imgurl=https%3A%2F%2Fcdn-1.webcatalog.io%2Fcatalog%2Fcodeforces%2Fcodeforces-icon-filled-256.png%3Fv%3D1714773964567&imgrefurl=https%3A%2F%2Fwebcatalog.io%2Fen%2Fapps%2Fcodeforces&docid=ZgDxmRfjVl7XJM&tbnid=BusgUYYF70BO_M&vet=12ahUKEwiXksaC1NCWAxX2luEIHUxUFmwQnPAOegQIRBAA..i&w=256&h=256&hcb=2&ved=2ahUKEwiXksaC1NCWAxX2luEIHUxUFmwQnPAOegQIRBAA" width="105" alt="Codeforces Avatar"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZrnGILx5lYAPTdYF8MQrmiBSXO3iaBtII4quCcRiZYg&s=10" width="105" alt="Codeforces Avatar"/>
 </a>
 
 <br/>
