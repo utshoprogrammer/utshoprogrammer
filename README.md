@@ -15,7 +15,7 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=utshoprogrammer&style=for-the-badge&color=0d3b20&label=PROFILE+VIEWS&labelColor=000000" />
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS-Not%20to%20Avaiable-39d353?style=for-the-badge&labelColor=000000&logo=checkmarx&logoColor=D44124" />
+<img src="https://img.shields.io/badge/STATUS-Not%20Avaiable-39d353?style=for-the-badge&labelColor=D44124&logo=checkmarx&logoColor=000000" />
 &nbsp;
 <img src="https://img.shields.io/badge/BASED-Bangladesh-ffffff?style=for-the-badge&labelColor=000000" />
 </div>
