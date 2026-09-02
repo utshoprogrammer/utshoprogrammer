@@ -10,12 +10,12 @@ permissions:
 
 jobs:
   generate:
-    runs-on: ubuntu-latest
+    runs-on: fedora-latest
     steps:
       - name: Generate snake SVG
         uses: Platane/snk@v3
         with:
-          github_user_name: habibprogrammerbd
+          github_user_name: utshoprogrammer
           outputs: |
             dist/github-snake-dark.svg?palette=github-dark
 

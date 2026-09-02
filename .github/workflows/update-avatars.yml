@@ -33,4 +33,4 @@ jobs:
 
       - name: Purge jsDelivr cache for cf_card.svg
         run: |
-          curl -s "https://purge.jsdelivr.net/gh/habibprogrammerbd/habibprogrammerbd@main/assets/cf_card.svg" || true
+          curl -s "https://purge.jsdelivr.net/gh/utshoprogrammer/utshoprogrammer@main/assets/cf_card.svg" || true
