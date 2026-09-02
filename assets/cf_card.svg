@@ -1,0 +1,27 @@
+<svg width="330" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #1a1b27; }
+      .title { font: 700 18px 'Segoe UI', sans-serif; fill: #ffffff; }
+      .label { font: 400 13px 'Segoe UI', sans-serif; fill: #9aa5ce; }
+      .value { font: 700 22px 'Segoe UI', sans-serif; fill: #ffffff; }
+      .rank { font: 700 15px 'Segoe UI', sans-serif; fill: #CCCCCC; }
+    </style>
+  </defs>
+  <rect class="bg" width="330" height="200" rx="12"/>
+  <text x="20" y="34" class="title">Habib101</text>
+  <text x="20" y="54" class="rank">newbie</text>
+
+  <text x="20" y="100" class="label">Rating</text>
+  <text x="20" y="128" class="value">353</text>
+
+  <text x="120" y="100" class="label">Max Rating</text>
+  <text x="120" y="128" class="value">353</text>
+
+  <text x="230" y="100" class="label">Solved</text>
+  <text x="230" y="128" class="value">19</text>
+
+  <rect x="20" y="150" width="290" height="6" rx="3" fill="#2a2b3c"/>
+  <rect x="20" y="150" width="35.3" height="6" rx="3" fill="#CCCCCC"/>
+  <text x="20" y="180" class="label">codeforces.com/profile/Habib101</text>
+</svg>
