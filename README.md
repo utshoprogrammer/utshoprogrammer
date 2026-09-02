@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="utshoprogrammer's GitHub profile" src="dark_mode.svg" />
+</picture>
+---
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:111827,100:0EA5E9&height=210&section=header&text=Ahosan%20Habib&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=34&desc=CSE%20Student%20%7C%20Competitive%20Programmer%20%7C%20Problem%20Solver&descSize=17&descAlignY=58" />
