@@ -153,13 +153,17 @@ My objective is clear: build high-performance, maintainable, and intelligent sof
 
 <td align="center" width="33%">
 
+<a href="https://leetcode.com/u/utshoprogrammer/">
+<img src="assets/utshoprogrammer.png" width="105" alt="LeetCode Avatar"/>
+</a>
+
 <br/>
 
 ## CodeChef
 
 <br/>
 
-[View Profile →](https://www.codechef.com/users/utsaprogrammer)
+[View Profile →](https://www.codechef.com/users/)
 
 </td>
 
@@ -222,7 +226,7 @@ See <code>.github/workflows/update-avatars.yml</code>
 ---
 
 ## `08 // Contribution Graph`
-
+utsaprogrammer
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 </p>
