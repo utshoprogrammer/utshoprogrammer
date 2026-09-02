@@ -121,6 +121,7 @@ My objective is clear: build high-performance, maintainable, and intelligent sof
 </div>
 
 ---
+<div align="center">
 
 ## `03 // Competitive Programming`
 
@@ -178,6 +179,8 @@ My objective is clear: build high-performance, maintainable, and intelligent sof
 
 <br/>
 
+</div>
+
 <div align="center">
 
 ## `04 // Codeforces Statistics`
@@ -206,6 +209,7 @@ See <code>.github/workflows/update-avatars.yml</code>
 <br/>
 
 ---
+<div align="center">
 
 ## `06 // CURRENTLY`
 
@@ -218,7 +222,10 @@ See <code>.github/workflows/update-avatars.yml</code>
 | `IMPROVING` | Software Architecture • Testing • Security                  |
 | `GOAL`      | Becoming an AI-Powered Full-Stack Software Engineer         |
 
+</div>
+
 ---
+<div align="center">
 
 ## `07 // Contribution Streak`
 
@@ -227,7 +234,10 @@ See <code>.github/workflows/update-avatars.yml</code>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=utshoprogrammer&theme=tokyonight&hide_border=true" />
 </div>
 
+</div>
+
 ---
+<div align="center">
 
 ## `08 // Contribution Graph`
 utsaprogrammer
@@ -235,7 +245,10 @@ utsaprogrammer
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 </p>
 
+</div>
+
 ---
+<div align="center">
 
 ## `09 // GitHub Profile`
 
@@ -247,8 +260,9 @@ utsaprogrammer
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=utshoprogrammer&theme=github_dark" alt="Fahim's GitHub repository stats" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=utshoprogrammer&theme=github_dark" alt="Fahim's repository language statistics" width="49%" />
 </p>
-
+</div>
 ---
+<div align="center">
 
 ## `10 // CONNECT`
 
@@ -306,5 +320,7 @@ utsaprogrammer
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:020c1b,80:041a0e,100:0d3b20&height=160&section=footer&text=%22Utsho+Kumar+Roy%22&fontSize=15&fontColor=39d353&fontAlignY=68&animation=fadeIn&reversal=true" />
+
+</div>
 
 </div>
