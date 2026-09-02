@@ -9,13 +9,13 @@
 <!--            2. CINEMATIC HEADER                             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:020c1b,60:041a0e,80:072b16,100:0d3b20&height=300&section=header&text=Utsho%20Kumar%20Roy&fontSize=64&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Full%20Stack%20Engineer%20%E2%80%A2%20React%20Architect%20%E2%80%A2%203D%20Web%20Craftsman&descAlignY=60&descSize=17&descFontColor=39d353&animation=fadeIn&stroke=39d353&strokeWidth=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:020c1b,60:041a0e,80:072b16,100:0d3b20&height=300&section=header&text=Utsa%20Kumar%20Roy&fontSize=64&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Full%20Stack%20Engineer%20%E2%80%A2%20React%20Architect%20%E2%80%A2%203D%20Web%20Craftsman&descAlignY=60&descSize=17&descFontColor=39d353&animation=fadeIn&stroke=39d353&strokeWidth=1" />
 
 <br/>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=utshoprogrammer&style=for-the-badge&color=0d3b20&label=PROFILE+VIEWS&labelColor=000000" />
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS-Not%20Avaiable-D44124?style=for-the-badge&labelColor=D44124&logo=checkmarx&logoColor=000000" />
+<img src="https://img.shields.io/badge/STATUS-Not%20Avaiable-D44124?style=for-the-badge&labelColor=25D931&logo=checkmarx&logoColor=000000" />
 &nbsp;
 <img src="https://img.shields.io/badge/BASED-Bangladesh-ffffff?style=for-the-badge&labelColor=000000" />
 </div>
@@ -46,18 +46,17 @@
 </div>
 
 <br/>
+---
 
-## 👨‍💻 About Me
+## `03 // ABOUT ME`
 
-> **CSE Student from Rangpur, Bangladesh** — focused on strengthening problem-solving skills through **DSA and Competitive Programming**, while exploring **backend and web development**.
+I'm **Utsa Kumar Roy**, a Full-Stack Software Engineer backed by a rigorous foundation in computer science fundamentals, data structures, and algorithms from Phitron.
 
-- 🔭 Currently solving problems on **Codeforces & LeetCode**
-- 🌱 Deepening my understanding of **Data Structures & Algorithms with C++**
-- 🤝 Open to collaborate on **backend development & competitive programming projects**
-- 📫 **Email:** [habibprogrammerbd@gmail.com](mailto:habibprogrammerbd@gmail.com)
-- 🌐 **Portfolio:** [my-portfolio-five-pearl-14.vercel.app](https://my-portfolio-five-pearl-14.vercel.app/)
+I build production-ready, scalable web applications across the full stack—leveraging React, Next.js, TypeScript, and Tailwind CSS on the frontend, alongside robust backend architectures built with Node.js, Express.js, MongoDB, and PostgreSQL.
 
-<br/>
+Beyond traditional web development, I am actively bridging core engineering principles with AI Engineering—exploring LLMs, RAG pipelines, AI agents, and intelligent application workflows, while sharpening my expertise in software architecture, system design, and performance optimization.
+
+My objective is clear: build high-performance, maintainable, and intelligent software that solves real-world problems efficiently.
 
 ---
 
@@ -190,46 +189,69 @@ See <code>.github/workflows/update-avatars.yml</code>
 
 ---
 
-## 🤝 Connect With Me
+## `06 // CURRENTLY`
+
+| Area        | Focus                                                       |
+| ----------- | ----------------------------------------------------------- |
+| `BUILDING`  | Full-stack web applications & SaaS products                 |
+| `LEARNING`  | TypeScript • Next.js • PostgreSQL • System Design •FastAPI  |
+| `EXPLORING` | AI Engineering • LLMs • RAG • AI Agents                     |
+| `DEPLOYING` | Vercel • Docker • GitHub Actions • Cloud                    |
+| `IMPROVING` | Software Architecture • Testing • Security                  |
+| `GOAL`      | Becoming an AI-Powered Full-Stack Software Engineer         |
+
+---
+
+## `07 // Contribution Streak`
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=utshoprogrammer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=utshoprogrammer&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## `08 // Contribution Graph`
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+</p>
+
+---
+
+## `09 // GitHub Profile`
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=utshoprogrammer&theme=github_dark" alt="Fahim's GitHub contribution summary" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=utshoprogrammer&theme=github_dark" alt="Fahim's GitHub repository stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=utshoprogrammer&theme=github_dark" alt="Fahim's repository language statistics" width="49%" />
+</p>
+
+---
+
+## `10 // CONNECT`
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/utshoprogrammer/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<p> <a href="https://github.com/utshoprogrammer"> <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=D4AF37" style="height:34px"/> </a> <a href="https://www.linkedin.com/in/utshoprogrammer/"> <img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=D4AF37" style="height:34px"/> </a> <a href="https://www.facebook.com/utshoprogrammer/"> <img src="https://img.shields.io/badge/Facebook-0D0D0D?style=for-the-badge&logo=facebook&logoColor=D4AF37" style="height:34px"/> </a> </p>
 
-<a href="https://www.facebook.com/utshoprogrammer/">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
+<p> <a href="mailto:utshoprogrammer@gmail.com"> <img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=D4AF37" style="height:34px"/> </a> <a href="https://utshoprogrammer.github.io/"> <img src="https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=google-chrome&logoColor=D4AF37" style="height:34px"/> </a> </p>
 
-<a href="mailto:utshoprogrammer@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<br>
 
-<a href="https://my-portfolio-five-pearl-14.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<sub><code>OPEN TO BUILD • COLLABORATE • CREATE</code></sub>
 
 </div>
-
-<br/>
 
 ---
 
 <div align="center">
 
-<sub>
-<a href="https://github.com/utshoprogrammer">GitHub</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://codeforces.com/profile/utshoprogrammer">Codeforces</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://leetcode.com/u/utshoprogrammer/">LeetCode</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://www.codechef.com/users/utsaprogrammer">CodeChef</a>
-</sub>
+### `BUILD • BREAK • LEARN • REBUILD`
 
-<br/><br/>
-
-<sub>Built with curiosity, consistency, and code.</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=120&section=footer&text=UTSHOPROGRAMMER&fontColor=D4AF37&fontSize=24&animation=fadeIn&fontAlignY=70" />
 
 </div>
