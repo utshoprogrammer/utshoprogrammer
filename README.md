@@ -242,6 +242,8 @@ utsaprogrammer
 
 ## `09 // GitHub Profile`
 
+</br>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=utshoprogrammer&theme=github_dark" alt="Fahim's GitHub contribution summary" width="100%" />
 </p>
