@@ -80,7 +80,7 @@ My objective is clear: build high-performance, maintainable, and intelligent sof
   <b>Frontend</b>
 </p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" />
 
 <br/><br/>
 
@@ -133,7 +133,7 @@ My objective is clear: build high-performance, maintainable, and intelligent sof
 <td align="center" width="33%">
 
 <a href="https://codeforces.com/profile/utshoprogrammer">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZrnGILx5lYAPTdYF8MQrmiBSXO3iaBtII4quCcRiZYg&s=10" width="105" alt="Codeforces Avatar"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZrnGILx5lYAPTdYF8MQrmiBSXO3iaBtII4quCcRiZYg&s=10" width="105" border-radius: 25px; alt="Codeforces Avatar"/>
 </a>
 
 <br/>
@@ -199,15 +199,6 @@ My objective is clear: build high-performance, maintainable, and intelligent sof
 
 </div>
 
-<p align="center">
-<sub>
-Codeforces & LeetCode avatars + statistics auto-update through GitHub Actions.
-See <code>.github/workflows/update-avatars.yml</code>
-</sub>
-</p>
-
-<br/>
-
 ---
 <div align="center">
 
@@ -230,7 +221,6 @@ See <code>.github/workflows/update-avatars.yml</code>
 ## `07 // Contribution Streak`
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=utshoprogrammer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=utshoprogrammer&theme=tokyonight&hide_border=true" />
 </div>
 
@@ -261,9 +251,10 @@ utsaprogrammer
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=utshoprogrammer&theme=github_dark" alt="Fahim's repository language statistics" width="49%" />
 </p>
 </div>
----
-<div align="center">
 
+<div align="center">
+---
+  
 ## `10 // CONNECT`
 
 <!-- ═══════════════════════════════════════════════════════════ -->
@@ -319,7 +310,7 @@ utsaprogrammer
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:020c1b,80:041a0e,100:0d3b20&height=160&section=footer&text=%22Utsa+Kumar+Roy%22&fontSize=15&fontColor=39d353&fontAlignY=68&animation=fadeIn&reversal=true" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:020c1b,80:041a0e,100:0d3b20&height=160&section=footer&text=%22Utsa+Kumar+Roy%22&fontSize=30&fontColor=39d353&fontAlignY=68&animation=fadeIn&reversal=true" />
 
 </div>
 
