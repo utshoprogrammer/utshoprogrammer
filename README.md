@@ -140,8 +140,6 @@ My objective is clear: build high-performance, maintainable, and intelligent sof
 
 ### Codeforces
 
-</br>
-
 [View Profile →](https://codeforces.com/profile/utshoprogrammer)
 
 </td>
@@ -156,21 +154,21 @@ My objective is clear: build high-performance, maintainable, and intelligent sof
 
 ### LeetCode
 
-</br>
-
 [View Profile →](https://leetcode.com/u/utshoprogrammer/)
 
 </td>
 
 <td align="center" width="33%">
 
-<a href="https://leetcode.com/u/utshoprogrammer/">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThYtsphfa5cUh7yDU6ItgCRtpt8tCuJRj1TYox43sGxA&s=10" width="105" alt="LeetCode Avatar" style="border-radius: 25px;"/>
+<a href="https://codechef.com/profile/utsaprogrammer">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZrnGILx5lYAPTdYF8MQrmiBSXO3iaBtII4quCcRiZYg&s=10" width="105" border-radius: 25px; alt="Codeforces Avatar"/>
 </a>
 
-## CodeChef
+<br/>
 
-[View Profile →](https://www.codechef.com/users/utsaprogrammer)
+### CodeChef
+
+[View Profile →](https://codeforces.com/profile/utsaprogrammer)
 
 </td>
 
