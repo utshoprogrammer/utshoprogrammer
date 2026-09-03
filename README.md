@@ -164,8 +164,6 @@ My objective is clear: build high-performance, maintainable, and intelligent sof
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThYtsphfa5cUh7yDU6ItgCRtpt8tCuJRj1TYox43sGxA&s=10" width="105" alt="LeetCode Avatar" style="border-radius: 25px;"/>
 </a>
 
-<br/>
-
 ## CodeChef
 
 [View Profile →](https://www.codechef.com/users/utsaprogrammer)
