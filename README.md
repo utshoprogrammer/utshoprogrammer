@@ -161,7 +161,7 @@ My objective is clear: build high-performance, maintainable, and intelligent sof
 <td align="center" width="33%">
 
 <a href="https://codechef.com/profile/utsaprogrammer">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZrnGILx5lYAPTdYF8MQrmiBSXO3iaBtII4quCcRiZYg&s=10" width="105" border-radius: 25px; alt="Codeforces Avatar"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZrnGILx5lYAPTdYF8MQrmiBSXO3iaBtII4quCcRiZYg&s=10](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkYl81oSQScJFkYa--rPWZSa0OOXnG5IDszPsTe4pZ9K9i96q1FOiQ5ww&s=10" width="105" border-radius: 25px; alt="Codeforces Avatar"/>
 </a>
 
 <br/>
