@@ -175,8 +175,6 @@ My objective is clear: build high-performance, maintainable, and intelligent sof
 
 </div>
 
-<br/>
-
 </div>
 
 <div align="center">
