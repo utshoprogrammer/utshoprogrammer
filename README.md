@@ -139,7 +139,9 @@ My objective is clear: build high-performance, maintainable, and intelligent sof
 <br/>
 
 ### Codeforces
+
 </br>
+
 [View Profile →](https://codeforces.com/profile/utshoprogrammer)
 
 </td>
@@ -153,7 +155,9 @@ My objective is clear: build high-performance, maintainable, and intelligent sof
 <br/>
 
 ### LeetCode
+
 </br>
+
 [View Profile →](https://leetcode.com/u/utshoprogrammer/)
 
 </td>
