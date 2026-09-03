@@ -13,10 +13,11 @@
 <img src="https://img.shields.io/badge/BASED-Bangladesh-ffffff?style=for-the-badge&labelColor=000000" />
 </div>
 <br/><br/>
+<div align="center">
 <a href="https://github.com/utshoprogrammer">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Solving+problems+and+learning+every+day;Data+Structures+%26+Algorithms+with+C%2B%2B;Competitive+Programming+%E2%80%A2+Backend+%E2%80%A2+Web+Development" alt="Typing SVG" />
 </a>
-
+</div>
 
 <br/><br/>
 
