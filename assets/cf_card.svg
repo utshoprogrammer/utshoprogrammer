@@ -19,7 +19,7 @@
   <text x="120" y="128" class="value">360</text>
 
   <text x="230" y="100" class="label">Solved</text>
-  <text x="230" y="128" class="value">21</text>
+  <text x="230" y="128" class="value">23</text>
 
   <rect x="20" y="150" width="290" height="6" rx="3" fill="#2a2b3c"/>
   <rect x="20" y="150" width="36.0" height="6" rx="3" fill="#CCCCCC"/>
